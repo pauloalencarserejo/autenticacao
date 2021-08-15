@@ -1,4 +1,8 @@
 D:\projeto\autenticacao\src\main\java\com\token\autenticacao\AutenticacaoApplication.java
+D:\projeto\autenticacao\src\main\java\com\token\autenticacao\service\UserService.java
+D:\projeto\autenticacao\src\main\java\com\token\autenticacao\model\User.java
 D:\projeto\autenticacao\src\main\java\com\token\autenticacao\config\AuthFilter.java
+D:\projeto\autenticacao\src\main\java\com\token\autenticacao\config\JwtConfiguration.java
+D:\projeto\autenticacao\src\main\java\com\token\autenticacao\repository\UserRepository.java
 D:\projeto\autenticacao\src\main\java\com\token\autenticacao\config\TokenService.java
 D:\projeto\autenticacao\src\main\java\com\token\autenticacao\config\WebSecurityConfig.java

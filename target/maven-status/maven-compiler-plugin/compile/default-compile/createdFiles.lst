@@ -1,3 +1,8 @@
-com\token\autenticacao\config\WebSecurityConfig.class
 com\token\autenticacao\config\TokenService.class
+com\token\autenticacao\service\UserService.class
+com\token\autenticacao\config\WebSecurityConfig.class
+com\token\autenticacao\config\JwtConfiguration.class
+com\token\autenticacao\repository\UserRepository.class
 com\token\autenticacao\AutenticacaoApplication.class
+com\token\autenticacao\config\AuthFilter.class
+com\token\autenticacao\model\User.class
