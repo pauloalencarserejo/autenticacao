@@ -1,0 +1,3 @@
+com\token\autenticacao\config\WebSecurityConfig.class
+com\token\autenticacao\config\TokenService.class
+com\token\autenticacao\AutenticacaoApplication.class
